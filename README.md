@@ -1,3 +1,9 @@
+# Welcome to My GitHub Repository!
+
+👋 Hello! I'm Muhammad Haseeb, a software developer with a passion for building efficient and user-friendly solutions. This GitHub Profile showcases my projects and the tools I've developed to solve real-world problems.
+
+---
+
 - 👋 Hi, I’m @mhaseebaslam
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning chartered accountant.
