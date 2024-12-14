@@ -6,20 +6,46 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently working with: **[Technologies you're using, e.g., JavaScript, React, Python, Node.js]**
-- 🔭 I’m focusing on: **[Specific skills or projects you're currently pursuing, e.g., "Building scalable web applications"]**
-- 💡 Fun fact: **[Share something unique about yourself, e.g., "I enjoy competitive coding challenges"]**
+- 🌱 I’m currently working with: **[HTML, CSS, and JavaScript]**
+- 🔭 I’m focusing on: **[Building scalable web applications]**
+- 💡 Fun fact: **[I enjoy competitive coding challenges]**
 
 ---
 
+## 📂 Projects
 
-- 👋 Hi, I’m @mhaseebaslam
-- 👀 I’m interested in computers.
-- 🌱 I’m currently learning chartered accountant.
-- 💞️ I’m looking to collaborate on digital services.
-- 📫 How to reach me? Through Email imhaseebaslam@gmail.com
+Here are some of the projects I’ve worked on:
 
-<!---
-mhaseebaslam/mhaseebaslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 1. **Project Name**
+   - **Description**: .
+   - **Technologies Used**: .
+   - **Status**: .
+   - **Link**: .
+
+### 2. **Another Project**
+   - **Description**: .
+   - **Technologies Used**: .
+   - **Status**: .
+   - **Link**: .
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Programming Languages: **[HTML, CSS, and JavaScript]**
+- Frameworks & Libraries: **[React, Express, Django]**
+- Development Tools: **[VS Code, Docker, Postman]**
+- Version Control: **Git and GitHub**
+
+---
+
+## 📜 License
+
+This repository is licensed under the **[MIT License](LICENSE)**. Feel free to use, modify, and share.
+
+---
+
+Thank you for visiting my GitHub repository! 😊
+
+<!--- mhaseebaslam/mhaseebaslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+You can click the Preview link to take a look at your changes. --->
