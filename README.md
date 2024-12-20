@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **innovative web or software development ideas.**
 - 💬 Ask me about **tips for building and maintaining personal GitHub repositories.**
 - 📫 How to reach me **imhaseebaslam@gmail.com**
-- 💻 New developer on the block? Join me on <a href="https://app.daily.dev/mhaseebaslam" target="blank">daily.dev</a>
+- 💻 New developer on the block? Join me on <a href="https://dly.to/vbB4MrEWVDh" target="blank">daily.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://twitter.com/imhaseeb_aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imhaseeb_aslam" height="30" width="40" /></a></p>
