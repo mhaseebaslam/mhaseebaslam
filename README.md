@@ -19,7 +19,5 @@
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaseebaslam&show_icons=true&locale=en" alt="mhaseebaslam"/></p>
 
-<a href="https://app.daily.dev/mhaseebaslam"><img src="https://api.daily.dev/devcards/v2/woeUibaryjNEV027QxBAv.png?r=4g7&type=wide" width="652" alt="Muhammad Haseeb's Dev Card"/></a>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mhaseebaslam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mhaseebaslam" /></a></p>
