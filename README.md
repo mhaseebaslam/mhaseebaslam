@@ -16,6 +16,8 @@
 - 📫 How to reach me **imhaseebaslam@gmail.com**
 - 💻 New developer on the block? Join me on <a href="https://dly.to/vbB4MrEWVDh" target="blank">**daily.dev**</a>
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/imhaseeb_aslam" target="blank">
@@ -39,9 +41,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="52" height="52" /></a>
 </p>
 
-<br>
+<br><br>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhaseebaslam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhaseebaslam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="149" alt="languages graph"/>
 </div>
