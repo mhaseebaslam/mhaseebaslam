@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb</h1>
-<h3 align="center">A passionate developer from Pakistan (Currently in Oulu), turning ideas into code and code into reality.</h3>
+<h3 align="center">🚀 A passionate developer from Pakistan, currently innovating in Oulu, transforming visionary ideas into impactful code and bringing it to life.</h3>
 
 <p align="left"><a href="https://twitter.com/imhaseeb_aslam" target="blank"><img src="https://img.shields.io/twitter/follow/imhaseeb_aslam?logo=twitter&style=for-the-badge" alt="imhaseeb_aslam" /></a> <img src="https://komarev.com/ghpvc/?username=mhaseebaslam&label=Profile%20views&color=0e75b6&style=flat" alt="mhaseebaslam" /></p>
 
