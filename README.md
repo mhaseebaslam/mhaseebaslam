@@ -41,7 +41,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="52" height="52" /></a>
 </p>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhaseebaslam&hide_title=false&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
