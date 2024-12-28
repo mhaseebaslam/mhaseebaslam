@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Haseeb</h1>
 <h3 align="center">Passionate developer from Pakistan, currently in Finland, turning ideas 🚀 into impactful code.</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhaseebaslam&label=Profile%20views&color=0e75b6&style=flat" alt="mhaseebaslam"/>
-</div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=mhaseebaslam&label=Profile%20views&color=0e75b6&style=flat" alt="mhaseebaslam"/></div>
 
 <br>
 
-- 🔭 I’m currently working on **building scalable and efficient web applications.**
-- 👯 I’m looking to collaborate on **innovative web or software development ideas.**
-- 💬 Ask me about **tips for building and maintaining personal GitHub repositories.**
-- 📫 How to reach me **imhaseebaslam@gmail.com**
-- 💻 New developer on the block? Join me on <a href="https://dly.to/vbB4MrEWVDh" target="blank">**daily.dev**</a>
+- 🌍 **I'm currently working on:** Building scalable and efficient web applications.
+- 💝 **Looking to collaborate on:** Innovative web or software development ideas.
+- 💬 **Ask me about:** Tips for building and maintaining personal GitHub repositories.
+- 📧 **Reach me at:** [imhaseebaslam@gmail.com](mailto:imhaseebaslam@gmail.com)
+- 💻 **Join me on:** <a href="https://dly.to/vbB4MrEWVDh" target="blank">**daily.dev**</a>
 
 <br>
 
@@ -43,5 +41,6 @@
 
 <h3 align="left">Support:</h3>
 <div>
+  <p>If you find my work helpful, consider supporting me to keep my projects growing!</p>
   <a href="https://www.buymeacoffee.com/mhaseebaslam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mhaseebaslam" /></a>
 </div>
