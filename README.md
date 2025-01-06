@@ -3,8 +3,6 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=mhaseebaslam&label=Profile%20views&color=0e75b6&style=flat" alt="mhaseebaslam"/></div>
 
----
-
 ## 🚀 About Me  
 
 - 🌐 **Frontend Developer**  
