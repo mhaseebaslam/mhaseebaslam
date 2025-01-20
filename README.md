@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haseeb</h1>
-<h3 align="center">Passionate developer from Pakistan, currently in Finland, turning ideas 🚀 into impactful code.</h3>
+<h2 align="center">I'm Haseeb. Passionate developer from Pakistan, currently in Finland, turning ideas 🚀 into impactful code.</h2>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=mhaseebaslam&label=Profile%20views&color=0e75b6&style=flat" alt="mhaseebaslam"/></div>
 
