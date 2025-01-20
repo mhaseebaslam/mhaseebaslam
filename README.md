@@ -1,4 +1,4 @@
-<h2 align="center">I'm Haseeb passionate developer turning ideas 🚀 into impactful code.</h2>
+<h2 align="center">I'm Haseeb, a passionate developer transforming ideas into impactful code that powers innovation 🚀.</h2>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=mhaseebaslam&label=Profile%20views&color=0e75b6&style=flat" alt="mhaseebaslam"/></div>
 
